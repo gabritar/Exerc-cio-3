@@ -1,0 +1,28 @@
+Var
+   nome : nome do cliente1
+   email: email do cliente1
+Var 
+  nome: nome do cliente2 
+  email: email do cliente2
+Var 
+  nome: nome do cliente3
+  email: email do cliente3
+
+Inicio
+   escreva("Digite o nome do cliente1: ")
+   leia(nome)
+   
+   escreva("Digite o email do cliente1: ")
+   leia(email)
+
+   escreva("Digite o nome do cliente2: ")
+   leia(nome do cliente2)
+   
+   escreva("Digite o email do cliente2: ")
+   leia(email do cliente2)
+
+   escreva("Digite o nome do cliente3: ")
+   leia(nome do cliente3)
+   
+   escreva("Digite o email do cliente3: ")
+   leia(email do cliente3)
