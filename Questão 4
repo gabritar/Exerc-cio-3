@@ -1,0 +1,5 @@
+nome = float(input("Digite o nome do Programador:"))
+horas = float(input("Digite as horas trabalhadas:"))
+salário = float(input("Digite o salário recebido:"))
+valor_do_salário = 86,00 * horas
+print("O valor do salário é de "R$ a_pagar") 
